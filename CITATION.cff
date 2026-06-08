@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Meta-Analysis of Correlated Outcomes Made Easy: Introducing CORMeta for Clinicians"
+message: "If you use this software, please cite it using the metadata below."
+authors:
+  - family-names: Akkaya
+    given-names: Tugba
+repository-code: "https://github.com/takkaya/Meta-Analysis-of-Correlated-Outcomes-Made-Easy-Introducing-CORMeta-for-Clinicians"
+license: MIT
+version: 1.0.0
+date-released: 2026-06-08
