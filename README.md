@@ -1,4 +1,4 @@
-# Meta-Analysis of Correlated Outcomes Made Easy: Introducing CORMeta for Clinicians
+# Bridging Statistical Rigor and Clinical Usability: The CORMeta App for Meta-Analysis of Correlated Outcomes
 
 This repository contains supporting R code and example data for the CORMeta workflow, a clinician-friendly approach for conducting meta-analysis when multiple correlated outcomes are reported across studies.
 
