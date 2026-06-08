@@ -88,6 +88,6 @@ The current implementation is intended as a transparent research and teaching wo
 
 Please cite this repository and the associated manuscript when using the code:
 
-> Akkaya, T. (2026). *Meta-Analysis of Correlated Outcomes Made Easy: Introducing CORMeta for Clinicians*. GitHub repository.
+> Akkaya, T. et al., (2026). *Bridging Statistical Rigor and Clinical Usability: The CORMeta App for Meta-Analysis of Correlated Outcomes*. GitHub repository.
 
 A formal citation can also be generated from `CITATION.cff`.
