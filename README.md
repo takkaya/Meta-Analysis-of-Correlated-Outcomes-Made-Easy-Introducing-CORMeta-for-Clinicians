@@ -88,6 +88,6 @@ The current implementation is intended as a transparent research and teaching wo
 
 Please cite this repository and the associated manuscript when using the code:
 
-> Akkaya, T. et al., (2026). *Bridging Statistical Rigor and Clinical Usability: The CORMeta App for Meta-Analysis of Correlated Outcomes*. GitHub repository.
+> Akkaya Hocagil, T., Cook, R. J., & Ryan, L. M. (2025). Bridging Statistical Rigor and Clinical Usability: The CORMeta App for Meta-Analysis of Correlated Outcomes. Ankara Üniversitesi Tıp Fakültesi Mecmuası, 78(4), 338-347. https://doi.org/10.65092/autfm.1758848. GitHub repository.
 
 A formal citation can also be generated from `CITATION.cff`.
